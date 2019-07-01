@@ -1,15 +1,11 @@
 # Binary-Visualized Stopwatch
-"Embedded System Lab Training SS_2019 Arduion Project" course, RCSE
+"Arduino Project for Embedded System Lab Training SS_2019" course, RCSE
 
 ### Group Members
 Bilal Ahmad Khan, Najib Ullah and Muhammad Abeer Akmal
 
 ### Description
-•	A stopwatch is developed which displays the time in binary notation.
-•	The clock uses the format mm:ss (minutes:seconds).
-•	Green LEDs are used to display minutes.
-•	Red LEDs are used to display seconds .
-•	There are two buttons in the hardware for start/stop and reset the stopwatch.
+A stopwatch is developed which displays the time in binary notation. The clock uses the format mm:ss (minutes:seconds). Green LEDs are used to display minutes. Red LEDs are used to display seconds . There are two buttons in the hardware for start/stop and reset the stopwatch.
 
 ### Components Required
 1. Arduino Mega

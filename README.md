@@ -1,5 +1,5 @@
 # Binary-Visualized Stopwatch
-"Arduino Project for Embedded System Lab Training SS_2019" Masters RCSE TU Ilmenau 
+"Arduino Project for Embedded System Lab Training SS_2019"
 
 ### Group Members
 Bilal Ahmad Khan, Najib Ullah and Muhammad Abeer Akmal
